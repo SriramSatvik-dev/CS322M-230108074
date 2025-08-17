@@ -1,0 +1,319 @@
+$date
+	Sun Aug 17 18:36:25 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module tb_q3 $end
+$var wire 1 ! dispense $end
+$var wire 1 " chg5 $end
+$var reg 1 # clk $end
+$var reg 2 $ coin [1:0] $end
+$var reg 1 % rst $end
+$scope module dut $end
+$var wire 1 # clk $end
+$var wire 2 & coin [1:0] $end
+$var wire 1 % rst $end
+$var parameter 3 ' S0 $end
+$var parameter 3 ( S10 $end
+$var parameter 3 ) S15 $end
+$var parameter 3 * S20 $end
+$var parameter 3 + S5 $end
+$var reg 1 " chg5 $end
+$var reg 3 , cur_state [2:0] $end
+$var reg 1 ! dispense $end
+$var reg 3 - next_state [2:0] $end
+$upscope $end
+$scope task pay10 $end
+$upscope $end
+$scope task pay5 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b1 +
+b100 *
+b11 )
+b10 (
+b0 '
+$end
+#0
+$dumpvars
+b0 -
+bx ,
+b0 &
+1%
+b0 $
+0#
+0"
+0!
+$end
+#5
+b0 ,
+1#
+#10
+0#
+#15
+0%
+1#
+#20
+b1 -
+b1 $
+b1 &
+0#
+#25
+b10 -
+b1 ,
+1#
+#30
+b1 -
+b0 $
+b0 &
+0#
+#35
+1#
+#40
+b10 -
+b1 $
+b1 &
+0#
+#45
+b11 -
+b10 ,
+1#
+#50
+b10 -
+b0 $
+b0 &
+0#
+#55
+1#
+#60
+b100 -
+b10 $
+b10 &
+0#
+#65
+1!
+b0 -
+b100 ,
+1#
+#70
+1!
+b0 $
+b0 &
+0#
+#75
+0!
+b0 ,
+1#
+#80
+b10 -
+b10 $
+b10 &
+0#
+#85
+b100 -
+b10 ,
+1#
+#90
+b10 -
+b0 $
+b0 &
+0#
+#95
+1#
+#100
+b100 -
+b10 $
+b10 &
+0#
+#105
+1!
+b0 -
+b100 ,
+1#
+#110
+1!
+b0 $
+b0 &
+0#
+#115
+0!
+b0 ,
+1#
+#120
+b1 -
+b1 $
+b1 &
+0#
+#125
+b10 -
+b1 ,
+1#
+#130
+b1 -
+b0 $
+b0 &
+0#
+#135
+1#
+#140
+b11 -
+b10 $
+b10 &
+0#
+#145
+1"
+1!
+b0 -
+b11 ,
+1#
+#150
+b11 -
+0"
+0!
+b0 $
+b0 &
+0#
+#155
+1#
+#160
+1"
+1!
+b0 -
+b10 $
+b10 &
+0#
+#165
+b10 -
+0"
+0!
+b0 ,
+1#
+#170
+b0 -
+b0 $
+b0 &
+0#
+#175
+1#
+#180
+b10 -
+b10 $
+b10 &
+0#
+#185
+b100 -
+b10 ,
+1#
+#190
+b10 -
+b0 $
+b0 &
+0#
+#195
+1#
+#200
+b11 -
+b1 $
+b1 &
+0#
+#205
+b100 -
+b11 ,
+1#
+#210
+b11 -
+b0 $
+b0 &
+0#
+#215
+1#
+#220
+1"
+1!
+b0 -
+b10 $
+b10 &
+0#
+#225
+b10 -
+0"
+0!
+b0 ,
+1#
+#230
+b0 -
+b0 $
+b0 &
+0#
+#235
+1#
+#240
+b10 -
+b10 $
+b10 &
+0#
+#245
+b100 -
+b10 ,
+1#
+#250
+b10 -
+b0 $
+b0 &
+0#
+#255
+1#
+#260
+b100 -
+b10 $
+b10 &
+0#
+#265
+1!
+b0 -
+b100 ,
+1#
+#270
+1!
+b0 $
+b0 &
+0#
+#275
+0!
+b0 ,
+1#
+#280
+b1 -
+b1 $
+b1 &
+0#
+#285
+b10 -
+b1 ,
+1#
+#290
+b1 -
+b0 $
+b0 &
+0#
+#295
+1#
+#300
+0#
+#305
+1#
+#310
+0#
+#315
+1#
+#320
+0#
+#325
+1#

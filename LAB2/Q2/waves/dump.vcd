@@ -1,0 +1,264 @@
+$date
+	Sun Aug 17 15:34:02 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module q2_tb $end
+$var wire 1 ! ns_y $end
+$var wire 1 " ns_r $end
+$var wire 1 # ns_g $end
+$var wire 1 $ ew_y $end
+$var wire 1 % ew_r $end
+$var wire 1 & ew_g $end
+$var reg 1 ' clk $end
+$var reg 1 ( rst $end
+$scope module dut $end
+$var wire 1 ' clk $end
+$var wire 1 ( rst $end
+$var parameter 2 ) s_ew_g $end
+$var parameter 2 * s_ew_y $end
+$var parameter 2 + s_ns_g $end
+$var parameter 2 , s_ns_y $end
+$var reg 1 - cur_state $end
+$var reg 1 & ew_g $end
+$var reg 1 % ew_r $end
+$var reg 1 $ ew_y $end
+$var reg 1 . next_state $end
+$var reg 1 # ns_g $end
+$var reg 1 " ns_r $end
+$var reg 1 ! ns_y $end
+$var reg 3 / timer [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b1 ,
+b0 +
+b11 *
+b10 )
+$end
+#0
+$dumpvars
+bx /
+x.
+x-
+1(
+0'
+x&
+x%
+x$
+x#
+x"
+x!
+$end
+#5
+1%
+0$
+0&
+0"
+0!
+1#
+0.
+b0 /
+0-
+1'
+#10
+0'
+#12
+0(
+#15
+b1 /
+1'
+#20
+0'
+#25
+b10 /
+1'
+#30
+0'
+#35
+b11 /
+1'
+#40
+0'
+#45
+1.
+b100 /
+1'
+#50
+0'
+#55
+1!
+1%
+0#
+b0 /
+1-
+1'
+#60
+0'
+#65
+0.
+b1 /
+1'
+#70
+0'
+#75
+1#
+1%
+0!
+b0 /
+0-
+1'
+#80
+0'
+#85
+b1 /
+1'
+#90
+0'
+#95
+b10 /
+1'
+#100
+0'
+#105
+b11 /
+1'
+#110
+0'
+#115
+1.
+b100 /
+1'
+#120
+0'
+#125
+1!
+1%
+0#
+b0 /
+1-
+1'
+#130
+0'
+#135
+0.
+b1 /
+1'
+#140
+0'
+#145
+1#
+1%
+0!
+b0 /
+0-
+1'
+#150
+0'
+#155
+b1 /
+1'
+#160
+0'
+#165
+b10 /
+1'
+#170
+0'
+#175
+b11 /
+1'
+#180
+0'
+#185
+1.
+b100 /
+1'
+#190
+0'
+#195
+1!
+1%
+0#
+b0 /
+1-
+1'
+#200
+0'
+#205
+0.
+b1 /
+1'
+#210
+0'
+#215
+1#
+1%
+0!
+b0 /
+0-
+1'
+#220
+0'
+#225
+b1 /
+1'
+#230
+0'
+#235
+b10 /
+1'
+#240
+0'
+#245
+b11 /
+1'
+#250
+0'
+#255
+1.
+b100 /
+1'
+#260
+0'
+#265
+1!
+1%
+0#
+b0 /
+1-
+1'
+#270
+0'
+#275
+0.
+b1 /
+1'
+#280
+0'
+#285
+1#
+1%
+0!
+b0 /
+0-
+1'
+#290
+0'
+#295
+b1 /
+1'
+#300
+0'
+#305
+b10 /
+1'
+#310
+0'
+#312
